@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "projectz",
+  "builds": [
+    {
+      "src": "**/*.js",
+      "use": "@now/node"
+    }
+  ]
+}
